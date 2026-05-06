@@ -4,8 +4,6 @@ BOM:
 
 - cost to print — 45p
 
-- [M2.5 plastic printing components — Caianwin](https://www.amazon.co.uk/dp/B0DFBPJ69Z)
-
 - [Raspberry Pi Zero 2 W — Raspberry Pi Zero W v2 (CPC / Farnell)](https://cpc.farnell.com/raspberry-pi/rpi-zero-w-v2/raspberry-pi-zero-w-v2/dp/SC19061?src=raspberrypi)
 
 - [Micro SD card — KOOTION MicroSDXC (ASIN B08CBBL4L6)](https://www.amazon.co.uk/dp/B08CBBL4L6)
