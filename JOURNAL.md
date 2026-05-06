@@ -27,3 +27,6 @@ i listed all the products price on the github repo
 
 part 8 - instrucions
 i made the instructions and i made it easy to follow but detailed
+
+<img width="1180" height="820" alt="IMG_0918" src="https://github.com/user-attachments/assets/60c80e37-d5e7-405b-a89e-dce9637e78c6" />
+<img width="2360" height="1576" alt="IMG_0919" src="https://github.com/user-attachments/assets/470c4547-810a-4705-90cd-2da91ba900a0" />
