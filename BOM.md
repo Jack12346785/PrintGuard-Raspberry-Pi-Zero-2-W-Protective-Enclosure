@@ -1,3 +1,3 @@
 BOM:
 
-- [oled display](https://www.amazon.co.uk/NiuLumea-Resolution-Interface-Projects-BlueYellowWhite/dp/B0G6ZHBDPJ)
+- [oled display](https://www.amazon.co.uk/NiuLumea-Resolution-Interface-Projects-BlueYellowWhite/dp/B0G6ZHBDPJ) -£5.49
