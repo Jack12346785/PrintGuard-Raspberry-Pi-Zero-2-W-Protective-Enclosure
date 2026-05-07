@@ -1,5 +1,5 @@
 
-# PrintGuard — Raspberry Pi Zero 2 W Protective Enclosure
+# PrintGuard Raspberry Pi Zero 2 W Protective Enclosure
 
 I am building a compact, 3D printable enclosure for the Raspberry Pi Zero 2 W
 
