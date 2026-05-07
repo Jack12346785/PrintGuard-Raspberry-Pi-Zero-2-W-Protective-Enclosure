@@ -1,6 +1,7 @@
 # PrintGuard — Raspberry Pi Zero 2 W Protective Enclosure
 
 I am building a compact, 3D printable enclosure for the Raspberry Pi Zero 2 W
+
 **Features:**
 
 - 0.96" OLED I2C display window
