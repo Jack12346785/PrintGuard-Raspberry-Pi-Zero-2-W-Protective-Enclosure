@@ -11,7 +11,8 @@ I am building a compact, 3D printable enclosure for the Raspberry Pi Zero 2 W
 - Passive cooling
 - an optional lid
 
-**Link**[-link-](https://www.crealitycloud.com/model-detail/printguard-raspberry-pi-zero-2w-enclosure?source=22)
+**Link**
+[link to view and download click here](https://www.crealitycloud.com/model-detail/printguard-raspberry-pi-zero-2w-enclosure?source=22)
 
 
 <img width="2336" height="1555" alt="IMG_0918" src="https://github.com/user-attachments/assets/6e39bb9b-01bc-4759-9474-f5c719550cd6" />
